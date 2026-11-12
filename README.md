@@ -3,6 +3,8 @@
 **Team 5 — Afternoon Class (G2)**  
 *EADA Business School — Global BBA & AI*
 
+**Live App Demo:** https://sp500-stock-predictor-s4udfzxv3t7eukwbgfwpot.streamlit.app/
+
 ## Project Overview
 This application is a Machine Learning tool built to predict short-term market directional trends (Up/Down) for the S&P 500 index (`^GSPC`). It fetches real-time financial market data, computes technical indicators, and trains a Random Forest Classifier to make directional predictions.
 
@@ -20,3 +22,4 @@ This application is a Machine Learning tool built to predict short-term market d
    cd YOUR_REPOSITORY
    pip install -r requirements.txt
    streamlit run app.py
+   
